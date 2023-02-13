@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\calculadora\fecha\fecha\bin\Debug\fecha.exe.config
+C:\Users\DELL\Desktop\calculadora\fecha\fecha\bin\Debug\fecha.exe
+C:\Users\DELL\Desktop\calculadora\fecha\fecha\bin\Debug\fecha.pdb
+C:\Users\DELL\Desktop\calculadora\fecha\fecha\obj\Debug\fecha.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\calculadora\fecha\fecha\obj\Debug\fecha.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\calculadora\fecha\fecha\obj\Debug\fecha.Form1.resources
+C:\Users\DELL\Desktop\calculadora\fecha\fecha\obj\Debug\fecha.Properties.Resources.resources
+C:\Users\DELL\Desktop\calculadora\fecha\fecha\obj\Debug\fecha.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\calculadora\fecha\fecha\obj\Debug\fecha.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\calculadora\fecha\fecha\obj\Debug\fecha.exe
+C:\Users\DELL\Desktop\calculadora\fecha\fecha\obj\Debug\fecha.pdb
