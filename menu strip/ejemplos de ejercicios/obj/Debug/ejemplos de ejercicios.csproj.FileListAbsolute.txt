@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\calculadora\ejemplos de ejercicios\ejemplos de ejercicios\bin\Debug\ejemplos de ejercicios.exe.config
+C:\Users\DELL\Desktop\calculadora\ejemplos de ejercicios\ejemplos de ejercicios\bin\Debug\ejemplos de ejercicios.exe
+C:\Users\DELL\Desktop\calculadora\ejemplos de ejercicios\ejemplos de ejercicios\bin\Debug\ejemplos de ejercicios.pdb
+C:\Users\DELL\Desktop\calculadora\ejemplos de ejercicios\ejemplos de ejercicios\obj\Debug\ejemplos de ejercicios.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\calculadora\ejemplos de ejercicios\ejemplos de ejercicios\obj\Debug\ejemplos de ejercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\calculadora\ejemplos de ejercicios\ejemplos de ejercicios\obj\Debug\ejemplos_de_ejercicios.Form1.resources
+C:\Users\DELL\Desktop\calculadora\ejemplos de ejercicios\ejemplos de ejercicios\obj\Debug\ejemplos_de_ejercicios.Form3.resources
+C:\Users\DELL\Desktop\calculadora\ejemplos de ejercicios\ejemplos de ejercicios\obj\Debug\ejemplos_de_ejercicios.Properties.Resources.resources
+C:\Users\DELL\Desktop\calculadora\ejemplos de ejercicios\ejemplos de ejercicios\obj\Debug\ejemplos de ejercicios.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\calculadora\ejemplos de ejercicios\ejemplos de ejercicios\obj\Debug\ejemplos de ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\calculadora\ejemplos de ejercicios\ejemplos de ejercicios\obj\Debug\ejemplos de ejercicios.exe
+C:\Users\DELL\Desktop\calculadora\ejemplos de ejercicios\ejemplos de ejercicios\obj\Debug\ejemplos de ejercicios.pdb
